@@ -1,4 +1,3 @@
-# Artifical-Intelligence-Classification-of-Combined-Mental-Health-Disorder
 # 🧠 Classification of Combined Mental Health Disorder
 
 This project applies **machine learning** to classify combined mental health disorders — **stress, anxiety, and depression** — among university students. By merging these conditions into a single target class, the system provides more effective classification and early diagnosis support.
@@ -12,6 +11,14 @@ This project applies **machine learning** to classify combined mental health dis
 - Logistic Regression  
 - Decision Tree  
 - Neural Network (1 hidden layer, 32 neurons, ReLU + Softmax)  
+
+## 📚 Libraries & Tools Used
+- **Python 3**  
+- **NumPy** – numerical computations  
+- **Pandas** – dataset handling & preprocessing  
+- **Matplotlib / Seaborn** – visualization (heatmaps, histograms, boxplots, correlation matrix)  
+- **Scikit-learn** – Logistic Regression, Decision Tree, preprocessing, metrics  
+- **TensorFlow / Keras** – Neural Network implementation (ReLU, Softmax, Adam optimizer, categorical crossentropy)  
 
 ## ✅ Results
 - **Decision Tree**: Accuracy 99.2%, F1-score 0.99  
